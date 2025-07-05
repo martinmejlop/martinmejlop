@@ -25,7 +25,7 @@
 
 - 👨‍💻 As an AI & Software Developer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Web Application Development.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+- 🌱 I’m diving deeper into Web and AI Development
 
 ## 🛠 &nbsp;Tech Stack
 
